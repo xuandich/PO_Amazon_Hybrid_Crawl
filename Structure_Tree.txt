@@ -5,20 +5,21 @@ amazon_scraper/
 ├── proxy_manager.py
 ├── cookie_manager.py
 ├── cookie_fetcher.py
+├── crawler.py
 ├── data_manager.py
 ├── run.sh
 ├── requirements.txt
 ├── HOW_TO_RUN.md
 ├── input/
-│   └── amazon_FR.xlsx           # URLs sản phẩm
+│   └── amazon_FR.xlsx
 ├── output/
 │   ├── amazon_products_*.csv    # Kết quả CSV
 │   └── amazon_products_*.json   # Kết quả JSON
 ├── cookies/
 │   ├── amazon_session.json      # Cookie chính
 │   └── cookies_*.json           # Cookie theo quốc gia
-├── Proxy/
+Proxy/
 │   ├── buyproxies_List.xlsx     # Danh sách proxy
 │   ├── proxy_by_country.json    # Proxy phân loại theo quốc gia
 │   └── proxy_country_cache.json # Cache quốc gia proxy
-└── browser-profile/             # Profile Playwright (tự tạo)
+└── browser-profile/
