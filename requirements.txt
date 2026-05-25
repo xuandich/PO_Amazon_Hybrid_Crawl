@@ -1,0 +1,8 @@
+# requirements.txt - ĐÚNG CHO PROJECT
+playwright>=1.40.0
+curl_cffi>=0.5.10
+pandas>=2.0.0
+openpyxl>=3.1.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+aiohttp>=3.9.0

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "csm-sid",
+    "value": "775-8785491-9479566",
+    "domain": "www.amazon.fr",
+    "path": "/",
+    "expires": 1782069961,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]
