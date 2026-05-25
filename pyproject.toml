@@ -1,0 +1,14 @@
+[project]
+name = "crawl-4-amazon-hybrib-crawl"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "curl-cffi>=0.15.0",
+    "lxml>=6.1.1",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.3",
+    "playwright>=1.60.0",
+]
